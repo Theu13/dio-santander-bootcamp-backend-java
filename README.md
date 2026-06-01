@@ -15,7 +15,6 @@ Este diretório contém os códigos, desafios de projeto, exercícios e anotaç�
 | **Integração com IA (Gemini, Whisper) & Arquitetura Limpa** | - | Avançado | 🔴 Não Iniciado | - |
 
 ## 💻 Desafios de Projeto & Código
-*(Adicione seus projetos aqui conforme for evoluindo!)*
 *   [ ] Desafio: Controle de Fluxo
 *   [ ] Desafio: Modelagem UML e Codificação (iPhone)
 *   [ ] Desafio: Criando uma API REST com Spring
