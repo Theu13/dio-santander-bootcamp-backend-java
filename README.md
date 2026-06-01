@@ -7,11 +7,12 @@ Este diretório contém os códigos, desafios de projeto, exercícios e anotaç�
 | Módulo / Curso | Carga Horária | Nível | Status | Conclusão |
 | :--- | :---: | :---: | :---: | :---: |
 | **Potencializando Seus Estudos e Carreira com IA** | 2h | Básico | 🟢 Concluído | 01/06/2026 |
-| Lógica de Programação & Git | - | Básico | 🟡 Em Progresso | - |
-| Java Básico | - | Básico | 🔴 Não Iniciado | - |
-| Java Avançado | - | Intermediário | 🔴 Não Iniciado | - |
-| Spring Boot | - | Avançado | 🔴 Não Iniciado | - |
-| Integração com IA | - | Avançado | 🔴 Não Iniciado | - |
+| **Era da IA: Machine Learning, LLMs, IA Generativa e Agentes** | - | Básico | 🔴 Não Iniciado | - |
+| **Lógica de Programação & Git** | - | Básico | 🟡 Em Progresso | - |
+| **Java Básico** (Sintaxe, Controle de Fluxo, POO) | - | Básico | 🔴 Não Iniciado | - |
+| **Java Avançado** (Collections, Streams, Exceções) | - | Intermediário | 🔴 Não Iniciado | - |
+| **Spring Boot & Spring Security** | - | Avançado | 🔴 Não Iniciado | - |
+| **Integração com IA (Gemini, Whisper) & Arquitetura Limpa** | - | Avançado | 🔴 Não Iniciado | - |
 
 ## 💻 Desafios de Projeto & Código
 *(Adicione seus projetos aqui conforme for evoluindo!)*
